@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/uuuuuuu/refs/heads/main/UNC%20test", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moonlightscripts/moonlight/refs/heads/main/hub", true))()
